@@ -1,6 +1,6 @@
 # Copa NLW
 
-![preview](./.github/preview-mobile.png) 
+![preview](./.github/preview-desktop.png) 
 
 ## 💻 Projeto 
 
