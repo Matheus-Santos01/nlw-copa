@@ -1,8 +1,6 @@
 # Copa NLW
 
-Mobile             |  Desktop
-:-------------------------:|:-------------------------:
-![preview](./.github/preview-mobile.png)  |  ![preview](./github/preview-desktop.png)
+![preview](./.github/preview-desktop.png) 
 
 ## 💻 Projeto 
 
